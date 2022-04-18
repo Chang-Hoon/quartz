@@ -1,3 +1,9 @@
+---
+title: "Subproject 이름 바꾸기"
+tags:
+- ALM
+enableToc: true # do not show a table of contents on this page
+---
 ### Subproject 이름 바꾸기
 - 1/ Integrity Client에서 본인의 Sandbox를 연다
 - 2/ ViewSet menu -> Customize... 선택
